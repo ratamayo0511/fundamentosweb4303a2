@@ -11,6 +11,10 @@
     margin-top: 20px;
   }
 
+  img{
+    width: 100px;
+  }
+
   /* Contenedor de columnas */
   .container {
     display: grid;
